@@ -11,7 +11,7 @@ var cfg = {
                 xtype : 'toolbar',
                 ui : 'small',
                 styleHtmlContent : true,
-                html : '<p style="font-size:13px;text-align:center;">This file is located at<br /><b>assets/www/phonegapdemo-w-sencha.js</b></p>'
+                html : '<p style="font-size:13px;text-align:center;">Welcome to WineDB!</p>'
             } ],
 
     layout : {
